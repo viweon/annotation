@@ -1,4 +1,4 @@
-module github.com/go-services/annotation
+module github.com/viweon/annotation
 
 go 1.12
 
